@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mardanmustak
 - 👀 I’m interested in C++/Proxy Technology/ SSL Termination/ Software/Application Security/ Endpoint Architecture/
-- 🌱 I’m currently Cloud Architecture 
+- 🌱 I’m currently Learnign Cloud Architecture 
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me ..
 
